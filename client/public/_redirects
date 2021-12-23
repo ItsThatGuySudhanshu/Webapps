@@ -1,0 +1,4 @@
+/movies /index.html 200
+/watchlist /index.html 200
+/profile /index.html 200
+/api/* https://warm-bayou-22517.herokuapp.com/api/:splat

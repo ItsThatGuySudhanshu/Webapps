@@ -1,0 +1,32 @@
+#movie {
+	padding: 0;
+	margin: 1rem;
+	flex-wrap: wrap;
+	align-content: flex-start;
+	border: 1px solid #e3e3e3;
+	box-shadow: 0 2px 8px rgb(0 0 0 / 10%);
+	background-color: #fff;
+	width: 250px;
+	height: 575px;
+}
+
+#movie-img {
+	max-width: 100%;
+	height: 70%;
+}
+
+#movie-info {
+	justify-content: space-around;
+	padding: 1rem;
+}
+
+#movie-info h7 {
+	margin: 0;
+}
+
+#movie-info button {
+	padding: 1px;
+	width: 40px;
+	height: 40px;
+	font-size: 20px;
+}

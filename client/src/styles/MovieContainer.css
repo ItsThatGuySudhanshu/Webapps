@@ -1,0 +1,42 @@
+.movie-container {
+	padding: 0;
+	min-width: 1160px;
+}
+
+#moviesPageTitle {
+	color: #cc0000;
+	padding-top: 100px;
+	text-align: center;
+}
+
+.paginationBttns {
+	width: 60%;
+	height: 40px;
+	display: flex;
+	list-style: none;
+	justify-content: center;
+}
+
+.paginationBttns a {
+	padding: 10px;
+	margin: 8px;
+	border-radius: 5px;
+	border: 1px solid black;
+	color: #cc0000;
+	cursor: pointer;
+}
+
+.paginationBttns a:hover {
+	color: white;
+	background-color: #cc0000;
+}
+
+.paginationActive a {
+	color: white;
+	background-color: #cc0000;
+}
+
+#pageButtons {
+	display: flex;
+	margin-top: 2rem;
+}

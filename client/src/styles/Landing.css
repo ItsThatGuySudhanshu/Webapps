@@ -1,0 +1,49 @@
+.container {
+	text-align: center;
+	font-family: "Trebuchet MS", sans-serif;
+	padding: 20px;
+}
+
+.container > h1 {
+	font-size: 60px;
+	padding-top: 50px;
+}
+
+#landing-container > .row {
+	padding-top: 25px;
+}
+
+.hero-action {
+	padding-right: 65px;
+}
+
+.call-action > h1 {
+	padding-bottom: 10px;
+	font-size: 55px;
+}
+
+.call-action > button {
+	width: 200px;
+	height: 75px;
+	border-color: black;
+}
+
+.hero-image {
+	width: 50%;
+}
+
+.benefits-offering {
+	font-size: 20px;
+}
+
+#benefits-offering {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#benefits-1 > p,
+#benefits-2 > p,
+#benefits-3 > p {
+	padding-top: 10px;
+	font-size: 15px;
+}

@@ -1,0 +1,12 @@
+.me-auto {
+	width: 30%;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+	list-style: none;
+}
+
+.state-logo {
+	padding-left: 10px;
+	width: 150px;
+}

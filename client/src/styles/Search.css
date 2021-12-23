@@ -1,0 +1,11 @@
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: red;
+}
+
+#searchBar {
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px; 
+    width: 200px;
+    height: 15px;  
+}
